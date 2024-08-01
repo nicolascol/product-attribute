@@ -1,1 +1,1 @@
-Shows the Product Tags menu in Sales app
+This module add menu “Product tags” in sales configuration app
